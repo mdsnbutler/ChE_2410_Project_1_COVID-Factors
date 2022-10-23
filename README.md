@@ -1,7 +1,12 @@
 # ChE 2410 Project 1 - COVID Factors: How transportation usage and population density affect covid infection rates.
 
-Analyzing 2021 COVID cases by county, looking for a relationship to public transportation
+Abstract: in 2021 Americans slowly started using public transportation again after the dropoff during the early COVID period. Given apparent shared space occuring in public transportation, was the rate of public transportation usage a factor in COVID case rates in 2021? This data analysis looks into answering this question using existing public datasets to generate vizualizations of what relationships may exist between different measurements of American counties. 
 
-With or without a relationship to public transportation, was population density an interactive factor in these data? Put another way, is any relationship with public transportation usage just measuring for a measure of city-ness.
+![My Image](casecounthist.png)
 
-Practicing data vizualization & large-datasets manipulation via pandas & python
+This is a histogram of total cases per capita. Further outliers are omitted with even higher total case counts.
+
+![My Image](cases_vs_logptu_densitycolored.png)
+
+Log10 of public transportation usage versus cases per capita, one dot is a county. Colored based on log10 of population density.
+
