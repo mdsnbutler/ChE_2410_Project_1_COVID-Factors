@@ -6,7 +6,7 @@ No significant relationship was found between whether a county had significant p
 
 ![My Image](casesperpophist.png)
 
-This is a histogram of total cases per capita. Further outliers are omitted with even higher total case counts.
+This is a histogram of total cases per capita. Further outliers are omitted with even higher total case counts. Total cases per capita is across a year, corresponding average cases per capita would be the total divided by number of reported cases, 365.
 
 ![My Image](cases_vs_logptu_densitycolored.png)
 
