@@ -4,6 +4,8 @@ Abstract: in 2021 Americans slowly started using public transportation again aft
 
 No significant relationship was found between whether a county had significant public transportation usage and their according case count in 2021. Future observations should look into more specific slices such as particular metropolitan areas or specific time periods.
 
+Code runs normally except for 1_ and 4_ which reference https://github.com/nytimes/covid-19-data the us-counties 2021 file. Everything else is created and referenced internally.
+
 ![My Image](casesperpophist.png)
 
 This is a histogram of total cases per capita. Further outliers are omitted with even higher total case counts. Total cases per capita is across a year, corresponding average cases per capita would be the total divided by number of reported cases, 365.
