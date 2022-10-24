@@ -15,3 +15,11 @@ This is a histogram of total cases per capita. Further outliers are omitted with
 <img src="./cases_vs_logptu_densitycolored.png" width="400" />
 
 Log10 of public transportation usage versus cases per capita, one dot is a county. Colored based on log10 of population density.
+
+<img src='./linmodel.png' width='400'>
+
+Previous graph with linear and average solutions. Both carry high SSEs indicating poor fits; a relationship between these data is not visible.
+
+<img src='./nonlinmodel.png' width='400'>
+
+Log10 of public transportation usage versus log10 of population density. Nonlinear, linear, and average solutions displayed. A poor fit to noisy data, but a relationship was nonetheless described.
