@@ -6,10 +6,12 @@ No significant relationship was found between whether a county had significant p
 
 Code runs normally except for 1_ and 4_ which reference https://github.com/nytimes/covid-19-data the us-counties 2021 file. Everything else is created and referenced internally.
 
-<img src="./casesperpophist.png" width="200" />
+Note: background on images is transparent, use non-dark themes to see the graphs below.
+
+<img src="./casesperpophist.png" width="400" />
 
 This is a histogram of total cases per capita. Further outliers are omitted with even higher total case counts. Total cases per capita is across a year, corresponding average cases per capita would be the total divided by number of reported cases, 365.
 
-![My Image](cases_vs_logptu_densitycolored.png width=50% height=50%)
+<img src="./cases_vs_logptu_densitycolored.png" width="400" />
 
 Log10 of public transportation usage versus cases per capita, one dot is a county. Colored based on log10 of population density.
