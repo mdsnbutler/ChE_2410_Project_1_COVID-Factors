@@ -1,4 +1,4 @@
-# ChE 2410 Project 1 - COVID Factors: How transportation usage and population density affect covid infection rates.
+# ChE 2410 Project 1: How transportation usage and population density interact with covid infection rates.
 
 Abstract: in 2021 Americans slowly started using public transportation again after the dropoff during the early COVID period. Given apparent shared space occuring in public transportation, was the rate of public transportation usage a factor in COVID case rates in 2021? This data analysis looks into answering this question using existing public datasets to generate vizualizations of what relationships may exist between different measurements of American counties. 
 
