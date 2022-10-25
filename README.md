@@ -4,7 +4,7 @@ Abstract: in 2021 Americans slowly started using public transportation again aft
 
 No significant relationship was found between whether a county had significant public transportation usage and their according case count in 2021. Future observations should look into more specific slices such as particular metropolitan areas or specific time periods.
 
-Code runs normally except for 1_ and 4_ which reference https://github.com/nytimes/covid-19-data the us-counties 2021 file. Everything else is created and referenced internally.
+Code runs normally except for 1_ and 4_ which reference https://github.com/nytimes/covid-19-data the us-counties 2021 file. Everything else is created and referenced internally. Code runs on python version 3.9.12, seems to behave differently if 3.1 is used.
 
 Note: background on images is transparent, use non-dark themes to see the graphs below.
 
